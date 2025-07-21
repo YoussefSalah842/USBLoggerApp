@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\bin\Debug\USBLoggerApp.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\bin\Debug\USBLoggerApp.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\obj\Debug\USBLoggerApp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\obj\Debug\USBLoggerApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\obj\Debug\USBLoggerApp.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\USBLoggerApp\USBLoggerApp\obj\Debug\USBLoggerApp.pdb
