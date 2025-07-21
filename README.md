@@ -1,6 +1,8 @@
 # USBLoggerApp
 a lightweight windows forms application that monitors and logs usb device connections and disconnections on a windows system. ideal for basic security monitoring, personal auditing, or simple device tracking at home or in office environments.
 
+<img width="1680" height="1050" alt="Image" src="https://github.com/user-attachments/assets/8be130e3-2ecb-4616-aafe-dc90ed30964e" />
+
 # features
 real-time detection of usb device insert/remove events
 
